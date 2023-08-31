@@ -1,2 +1,1 @@
-# History
-
+# read-me-generator
